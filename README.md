@@ -1,6 +1,4 @@
 # SS2021
-
-# SS2020V2_ML_Day2
 --------------------------------------------------------------------------------
 
 Deep learning has been getting lots of attention from many different fields including business/finance, image handling and even science simulation. 2-Day Deep learning course in Summer School 2021 will be a good foundation course for who wants to actually program it. The course will proceed with presentation and live demonstration using Google Colab and eventually will help the student to run his/her code on Graham cluster. 
