@@ -12,7 +12,7 @@ Day 1 will cover Multivariable linear regression and MNIST image classification 
 * [Day 2 - PM](https://github.com/isaacye/SS2021#Day2PM) : Recurrent Neural Network
 
 --------------------------------------------------------------------------------
-## Session 1 (10:00 AM - 12:30 PM)
+## Day 1 - Morning (10:00 AM - 12:30 PM)
 
 **What we cover**
 * Training linear model
@@ -21,7 +21,7 @@ Day 1 will cover Multivariable linear regression and MNIST image classification 
 * Multi-variable linear regression
 
 --------------------------------------------------------------------------------
-## Session 2 (1:30 PM - 3:00 PM)
+## Day 1 - Afternoon (1:30 PM - 3:00 PM)
 
 **What we cover**
 * Multi-Layer Perceptron
@@ -30,7 +30,7 @@ Day 1 will cover Multivariable linear regression and MNIST image classification 
 * Regularization
 
 --------------------------------------------------------------------------------
-## Session 3 (10:00 AM - 12:30 PM)
+## Day 2 - Morning (10:00 AM - 12:30 PM)
 
 **What we cover**
 * Binary classification
@@ -40,7 +40,7 @@ Day 1 will cover Multivariable linear regression and MNIST image classification 
 
 
 --------------------------------------------------------------------------------
-## Session 4 (1:30 PM - 3:00 PM)
+## Day 2 - Afternoon (1:30 PM - 3:00 PM)
 
 **What we cover**
 * Recurrent Neural Network
