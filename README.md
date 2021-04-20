@@ -25,7 +25,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 * Multi-variable linear regression
 
 --------------------------------------------------------------------------------
-## Day 1 - Afternoon (1:30 PM - 3:00 PM)
+## Day 1 - Afternoon (1:30 PM - 4:00 PM)
 
 **What we cover**
 * Multi-Layer Perceptron
@@ -44,7 +44,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 
 
 --------------------------------------------------------------------------------
-## Day 2 - Afternoon (1:30 PM - 3:00 PM)
+## Day 2 - Afternoon (1:30 PM - 4:00 PM)
 
 **What we cover**
 * Recurrent Neural Network
