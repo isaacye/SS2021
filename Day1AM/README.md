@@ -34,7 +34,7 @@ deactivate
 
 Once it is activated, you can see the command prompt in your terminal changed as follows.
 
-![virtualenv](https://github.com/isaacye/SS2021/blob/main/Day1AM/ve3.png)
+![virtualenv3](https://github.com/isaacye/SS2021/blob/main/Day1AM/ve3.png)
 
 Before installing any packages (modules), you better check if your **pip** (python package manager) is up to date. (Note that it is done once after activating **VE**.)
 
@@ -49,7 +49,7 @@ Now, we need to install PyTorch packages by checking our **wheelhouse**.
 avail_wheels torch
 ```
 
-figure ve4
+![virtualenv4](https://github.com/isaacye/SS2021/blob/main/Day1AM/ve4.png)
 
 If you type __avail_whees__, you will have the full list of available wheels in the system. For information on how to search for things like specific versions, see the wiki [here](https://docs.computecanada.ca/wiki/Python#Available_wheels).
 
@@ -68,7 +68,7 @@ pip list | grep torch
 ```
 
 
-figure ve5
+![virtualenv5](https://github.com/isaacye/SS2021/blob/main/Day1AM/ve5.png)
 
 Run Python in the VE to start the interpreter as follows
 
@@ -81,7 +81,7 @@ import torch
 print(torch.__version__)
 ```
 
-figure ve6
+![virtualenv6](https://github.com/isaacye/SS2021/blob/main/Day1AM/ve6.png)
 
 
 ### Running your code in Graham
