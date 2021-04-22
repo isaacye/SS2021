@@ -8,6 +8,7 @@
 
 :pencil2: Lecture slide
 
+---
 ### Setting up virtual environment in Graham
 
 Virtual Environment(VE) supported by Python is a working place only for your work, so you can add/delete any packages you need. Here we practice to install necessary packages for ML framework - PyTorch. 
@@ -83,5 +84,5 @@ print(torch.__version__)
 
 ![virtualenv6](https://github.com/isaacye/SS2021/blob/main/Day1AM/ve6.png)
 
-
+---
 ### Running your code in Graham
