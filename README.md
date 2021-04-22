@@ -48,7 +48,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 
 **What we cover**
 * Recurrent Neural Network
-* Long Short-Term Memory
+
 
 ## Acknowledgement
 
