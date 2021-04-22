@@ -34,7 +34,7 @@ deactivate
 
 Once it is activated, you can see the command prompt in your terminal changed as follows.
 
-figure ve3
+![virtualenv](https://github.com/isaacye/SS2021/blob/main/Day1AM/ve3.png)
 
 Before installing any packages (modules), you better check if your **pip** (python package manager) is up to date. (Note that it is done once after activating **VE**.)
 
