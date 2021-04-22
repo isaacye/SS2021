@@ -1,5 +1,4 @@
 # SS2021
---------------------------------------------------------------------------------
 
 Deep learning has been getting lots of attention from many different fields including business/finance, image handling and even science simulation. 2-Day Deep learning course in Summer School 2021 will be a good foundation course for who wants to actually program it. The course will proceed with presentation and live demonstration using Google Colab and eventually will help the student to run his/her code on Graham cluster. 
 
@@ -15,7 +14,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 * [Day 2 - AM](https://github.com/isaacye/SS2021#Day2AM) : Convolutional Neural Network
 * [Day 2 - PM](https://github.com/isaacye/SS2021#Day2PM) : Recurrent Neural Network
 
---------------------------------------------------------------------------------
+----
 ## Day 1 - Morning (10:00 AM - 12:30 PM)
 
 **What we cover**
@@ -24,7 +23,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 * Loss functions
 * Multi-variable linear regression
 
---------------------------------------------------------------------------------
+---
 ## Day 1 - Afternoon (1:30 PM - 4:00 PM)
 
 **What we cover**
@@ -33,7 +32,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 * Overfitting
 * Regularization
 
---------------------------------------------------------------------------------
+---
 ## Day 2 - Morning (10:00 AM - 12:30 PM)
 
 **What we cover**
@@ -43,13 +42,13 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 * Gradient Vanishing
 
 
---------------------------------------------------------------------------------
+---
 ## Day 2 - Afternoon (1:30 PM - 4:00 PM)
 
 **What we cover**
 * Recurrent Neural Network
 
-
+---
 ## Acknowledgement
 
 KAIST Idea Factory - [[Deep learning alone]](https://github.com/heartcored98/Standalone-DeepLearning)
