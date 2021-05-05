@@ -2,7 +2,7 @@
 
 Deep learning has been getting lots of attention from many different fields including business/finance, image handling and even science simulation. 2-Day Deep learning course in Summer School 2021 will be a good foundation course for who wants to actually program it. The course will proceed with presentation and live demonstration using Google Colab and eventually will help the student to run his/her code on Graham cluster. 
 
-Day 1 will cover Multivariable linear regression and MNIST image classification using linear and Multi-Layer Perceptron (MLP) including some techniques to avoid overfitting. Day 2 will cover CIFAR10 image classification with Convolutional Neural Network and a simple stock prediction with Long Short-Term Memory (LSTM) using Recurrent Neural Network. 
+Day 1 will cover Multivariable linear regression and MNIST image classification using linear and Multi-Layer Perceptron (MLP) including some techniques to avoid overfitting. Day 2 will cover CIFAR10 image classification with Convolutional Neural Network and a simple stock example using Recurrent Neural Network. 
 
 _* All coding will be done using Python 3 and PyTorch 1.8._
 
