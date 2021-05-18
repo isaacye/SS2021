@@ -9,13 +9,13 @@ _* All coding will be done using Python 3 and PyTorch 1.8._
 _* Basic knowledge on Python and Object Oriented Programming is prerequisite for this course._
 
 **Contents**
-* [Day 1 - AM](https://github.com/isaacye/SS2021#Day1AM) : Linear model
-* [Day 1 - PM](https://github.com/isaacye/SS2021#Day1PM) : Multi-Layer Perceptron
-* [Day 2 - AM](https://github.com/isaacye/SS2021#Day2AM) : Convolutional Neural Network
-* [Day 2 - PM](https://github.com/isaacye/SS2021#Day2PM) : Recurrent Neural Network
+* [Day 1 - AM](https://github.com/isaacye/SS2021/tree/main/Day1AM) : Linear model
+* [Day 1 - PM](https://github.com/isaacye/SS2021/tree/main/Day1PM) : Multi-Layer Perceptron
+* [Day 2 - AM](https://github.com/isaacye/SS2021/tree/main/Day2AM) : Convolutional Neural Network
+* [Day 2 - PM](https://github.com/isaacye/SS2021/tree/main/Day2PM) : Recurrent Neural Network
 
 ----
-## Day 1 - Morning (10:00 AM - 12:30 PM)
+## Day 1 - Morning (10:00 AM - 12:00 PM)
 
 **What we cover**
 * Training linear model
@@ -24,7 +24,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 * Multi-variable linear regression
 
 ---
-## Day 1 - Afternoon (1:30 PM - 4:00 PM)
+## Day 1 - Afternoon (1:30 PM - 5:00 PM)
 
 **What we cover**
 * Multi-Layer Perceptron
@@ -33,7 +33,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 * Regularization
 
 ---
-## Day 2 - Morning (10:00 AM - 12:30 PM)
+## Day 2 - Morning (10:00 AM - 12:00 PM)
 
 **What we cover**
 * Binary classification
@@ -43,7 +43,7 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 
 
 ---
-## Day 2 - Afternoon (1:30 PM - 4:00 PM)
+## Day 2 - Afternoon (1:30 PM - 5:00 PM)
 
 **What we cover**
 * Recurrent Neural Network
