@@ -28,9 +28,8 @@ _* Basic knowledge on Python and Object Oriented Programming is prerequisite for
 
 **What we cover**
 * Multi-Layer Perceptron
-* Running on GPU
 * Overfitting
-* Regularization
+* Advanced techniques: Batch normalization, Xavier initialization, dropout
 
 ---
 ## Day 2 - Morning (10:00 AM - 12:00 PM)
